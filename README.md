@@ -5,8 +5,7 @@ You can see examples of my work via https://mpascu.netlify.app/
 #### 🌍  I'm based in Vejle, DK.
 #### 🖥️  See my portfolio at [Website](http://mpascu.netlify.app)
 #### ✉️  You can contact me at [mirel\_pascu@yahoo.com](mailto:mirel_pascu@yahoo.com)
-#### 🚀  I'm currently working on [Movie App](http://dexie-indexeddb--remarkable-beignet-bef538.netlify.app/)
-#### 🧠  I'm learning Advance JS concepts
+#### 🧠  Interests: Redux and TypeScript.
 
 ## Skills
 
