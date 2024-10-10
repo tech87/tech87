@@ -1,4 +1,4 @@
-# Hi 👋 my name is Mirel Pascu 
+# Hi 👋 my name is Mirel Ionut Pascu 
 ## Front End Developer (React | JavaScript | TailwindCSS)
 ### I'm a Front End Developer specialising in React, JavaScript, TailwindCSS, ContextAPI, React Hooks. My currently interests include Redux and TypeScript. 
 You can see examples of my work via https://mpascu.netlify.app/
