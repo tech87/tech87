@@ -1,6 +1,7 @@
 # Hi 👋 my name is Mirel Pascu 
-## Front end Developer
-### A front-end developer with a keen eye for user-centric design and a strong proficiency in React. My focus is on creating elegant, responsive web applications that engage and delight users. Currently, I am learning advanced JavaScript concepts.
+## Front End Developer (React | JavaScript | TailwindCSS)
+### I'm a Front End Developer specialising in React, JavaScript, TailwindCSS, ContextAPI, React Hooks. My currently interests include Redux and TypeScript. 
+You can see examples of my work via https://mpascu.netlify.app/
 #### 🌍  I'm based in Vejle, DK.
 #### 🖥️  See my portfolio at [Website](http://mpascu.netlify.app)
 #### ✉️  You can contact me at [mirel\_pascu@yahoo.com](mailto:mirel_pascu@yahoo.com)
