@@ -1,5 +1,5 @@
 ## Front End Developer (React | JavaScript | TailwindCSS)
-### I'm a Front End Developer specialising in React, JavaScript, TailwindCSS, ContextAPI, React Hooks. My currently interests include Redux and TypeScript. 
+### I'm a Front End Developer specialising in React, JavaScript, TailwindCSS, ContextAPI, React Hooks. My currently interests include Next.js and TypeScript. 
 You can see examples of my work via https://mpascu.netlify.app/
 #### 🌍  I'm based in Vejle, DK.
 #### 🖥️  See my portfolio at [Website](http://mpascu.netlify.app)
