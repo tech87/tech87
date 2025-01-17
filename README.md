@@ -4,7 +4,7 @@ You can see examples of my work via https://mpascu.netlify.app/
 #### 🌍  I'm based in Vejle, DK.
 #### 🖥️  See my portfolio at [Website](http://mpascu.netlify.app)
 #### ✉️  You can contact me at [mirel\_pascu@yahoo.com](mailto:mirel_pascu@yahoo.com)
-#### 🧠  Interests: Redux and TypeScript.
+#### 🧠  Interests: Next.js and TypeScript.
 
 ## Skills
 
